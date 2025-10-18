@@ -1,3 +1,0 @@
-Temp: 18°C
-Humid: 32%
-Status: Sunny
