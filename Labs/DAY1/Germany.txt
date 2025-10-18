@@ -1,0 +1,3 @@
+Temp: 11°C
+Humid: 69%
+Status: Mostly cloudy
