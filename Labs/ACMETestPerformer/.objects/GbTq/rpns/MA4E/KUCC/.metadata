@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Encodes your data into …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "KUCCSJHwKkee0AdckFb4OA",
+  "Reference": "aKJeo_mShESd5xS70BIVXw/KUCCSJHwKkee0AdckFb4OA",
+  "ParentRef": "aKJeo_mShESd5xS70BIVXw/MA4E4iUqzUWmDFsHEa-TRw",
+  "Created": "2025-10-26T15:02:55.6689901Z",
+  "Updated": "2025-10-26T15:02:55.6689901Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

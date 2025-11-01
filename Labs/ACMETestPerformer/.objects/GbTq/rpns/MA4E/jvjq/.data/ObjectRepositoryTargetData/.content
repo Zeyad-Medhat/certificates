@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pt2UH4EabEyPRSynmknMOg" Reference="aKJeo_mShESd5xS70BIVXw/jvjqPwkQE0-PrEjLIXWxrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="base64encode.org" CVScreenId="e4f37c04-7318-4888-b4ce-9efa18eefeae" DesignTimeRectangle="699, 607, 332, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='accept-btn' tag='BUTTON' type='' class=' css-47sehv' aaname='AGREE' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='AGREE' /&gt;" Guid="ff5a828d-91e5-4f62-a26b-7e65047cf78b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Base64 Encode and Decode - Online' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e4f37c04-7318-4888-b4ce-9efa18eefeae" CvElementArea="697, 632, 334, 42" CvTextArea="838, 646, 52, 13" CvTextArgument="AGREE" CvType="Button" DesignTimeRectangle="840, 620, 49, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='accept-btn' tag='SPAN' type='' class='' aaname='AGREE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='AGREE' /&gt;" Guid="33da664d-7590-421b-9a52-054a4e41cd7d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d37076f0dccd89152103cdbf220e131a.png" xmlns="">0TDcWaY-pcEaeqAh1ngaMqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

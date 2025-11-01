@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Base64 Encode and Decode - Online",
+  "Type": "Screen",
+  "Id": "MA4E4iUqzUWmDFsHEa-TRw",
+  "Reference": "aKJeo_mShESd5xS70BIVXw/MA4E4iUqzUWmDFsHEa-TRw",
+  "ParentRef": "aKJeo_mShESd5xS70BIVXw/rpnsyN72s0G-05zs0RXlQQ",
+  "Created": "2025-10-26T14:59:23.4183345Z",
+  "Updated": "2025-10-26T14:59:23.4183345Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

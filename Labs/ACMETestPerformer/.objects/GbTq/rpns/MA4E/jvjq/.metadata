@@ -1,0 +1,14 @@
+﻿{
+  "Name": "AGREE",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "jvjqPwkQE0-PrEjLIXWxrQ",
+  "Reference": "aKJeo_mShESd5xS70BIVXw/jvjqPwkQE0-PrEjLIXWxrQ",
+  "ParentRef": "aKJeo_mShESd5xS70BIVXw/MA4E4iUqzUWmDFsHEa-TRw",
+  "Created": "2025-10-26T15:00:25.8891425Z",
+  "Updated": "2025-10-26T15:00:25.8891425Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

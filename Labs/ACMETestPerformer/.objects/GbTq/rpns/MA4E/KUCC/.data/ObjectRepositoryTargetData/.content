@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RzcKJ_xYiEyU_Ggkmuaq9A" Reference="aKJeo_mShESd5xS70BIVXw/KUCCSJHwKkee0AdckFb4OA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="base64encode.org" CVScreenId="1f5251b1-cb77-43c2-9a48-b980358848d0" DesignTimeRectangle="212, 402, 783, 220" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='output' tag='TEXTAREA' type='' class='' placeholder='Result goes here...' aaname='Encodes your data into the area below.' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="46e00426-739e-4385-90b2-d73e5047763e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Base64 Encode and Decode - Online' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1f5251b1-cb77-43c2-9a48-b980358848d0" CvTextArea="355, 422, 209, 12" CvTextArgument="Encodes your data into the area below." CvType="Text" DesignTimeRectangle="356, 366, 207, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Encodes your data into the area below.' class='option' parentname='text' tag='LABEL' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' check:innerText='Encodes your data into the area below.' /&gt;" Guid="e75371c9-173b-44ea-930a-3cc5b6252dee" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1f94f73d586cceba7c99b42d553d059.png" xmlns="">0w7E6vgQuj0CFjQf6qUov7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
